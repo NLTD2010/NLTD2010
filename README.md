@@ -1,7 +1,7 @@
 ### Hi everyone 🤗 I'm hackintosher
 
-![NLTD2010's github stats](https://github-readme-stats.vercel.app/api?username=NLTD2010&show_icons=true&theme=dark)- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLTD2010&theme=tokyonight)
+#![NLTD2010's github stats](https://github-readme-stats.vercel.app/api?username=NLTD2010&show_icons=true&theme=dark)- 
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLTD2010&theme=tokyonight)
 
 [My Github Project](https://github.com/chris1111?tab=repositories)
 -
