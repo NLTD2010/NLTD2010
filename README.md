@@ -6,7 +6,7 @@
 [My Github Project](https://github.com/chris1111?tab=repositories)
 -
 
-<a href="https://github.com/chris1111?tab=repositories"><img src="https://user-images.githubusercontent.com/6248794/134265145-48b081e9-63aa-4def-acd9-a347c5f55f13.png" width="200px"></a>
+<a href="https://github.com/NLTD2010?tab=repositories"><img src="https://www.getfynd.com/blog/2016/12/15/why-did-apple-choose-an-apple-with-a-bite-out-of-it-for-its-logo/why-did-apple-choose-an-apple-with-a-bite-out-of-it-for-its-logo.jpg" width="200px"></a>
 -
 
 
