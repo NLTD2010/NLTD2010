@@ -117,13 +117,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=NLTD2010&theme=react-dark&custom_title=DannyVn%F0%9F%98%86">
 <p>
 
-<hr>
-<br>
-
-<hr>
-<br>
-
-
 
 ## My tool
 
