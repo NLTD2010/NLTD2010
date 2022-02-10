@@ -65,12 +65,6 @@
   </tbody>
 </table>
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NLTD2010&theme=tokyonight&row=2&column=4">
-</p>
-
 ## <p align="center">Top langs :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLTD2010&langs_count=10&theme=tokyonight&layout=compact" alt="NLTD2010 :: Top Langs" /></p>
