@@ -30,18 +30,6 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	 <a href="https://devdocs.io/c/">
-		<span>𝗖</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
 	<a href="https://www.w3schools.com/js/js_htmldom_document.asp">
 		<span>𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
@@ -65,12 +53,6 @@
 		<a href="https://code.visualstudio.com/docs">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 		</a>
       </td>
       <td width="20%" align="center">
