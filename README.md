@@ -74,18 +74,6 @@
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://www.vim.org/">
-        <span>𝗩𝗶𝗺</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png">
-	      </a>
-      </td>
-	    <td width="20%" align="center">
-	<a href="https://www.sublimetext.com/docs/">
-		<span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁</span><br><br><br>
-		<img height="64px" src="https://www.sublimehq.com/images/sublime_text.png">
-	</a>
-      </td>
-      <td width="20%" align="center">
 	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
