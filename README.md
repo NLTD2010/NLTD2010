@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/NLTD2010">
-	<img src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-1/c145.33.254.254a/p320x320/240118244_373207864343659_2552214732870605524_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_ohc=L7OwGI0vz8oAX8HWmr-&_nc_ht=scontent.fdad3-5.fna&oh=00_AT9z8XHZE1tSDCOoqLdgFCO-MswjpRxl1EqTQQQ6ICO-Nw&oe=62052D46" width = "200" alt="NLTD2010" style="border-radius:50%">
+	<img src="https://avatars.githubusercontent.com/u/77970269" width = "200" alt="NLTD2010" style="border-radius:50%">
 	</a>
 </p>
 
