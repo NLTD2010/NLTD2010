@@ -1,10 +1,10 @@
 
 # <p align="center">DANNYVN2000</p>
+
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&lines=I+love+hackintosh;I+am+a+hackintosher+%3A3" alt="Typing SVG" /></a>
-</p>
-<p align="center">
+	
 	<a href="https://github.com/NLTD2010">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&lines=I+love+hackintosh;I+am+a+hackintosher+%3A3" alt="Typing SVG" /></a>
 	<img src="https://avatars.githubusercontent.com/u/77970269" width = "200" alt="NLTD2010" style="border-radius:50%">
 		<img src="https://media-ten.z-cdn.me/images/f4f34dbcc67c271aabf8f4e91f186bee/tenor.gif" align="center" style="width: 50%" />
 	</a>
