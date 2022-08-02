@@ -1,7 +1,7 @@
 
 # <p align="center">DANNYVN2000</p>
 <p align="center">
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&lines=I+love+hackintosh;I+am+a+hackintosher+%3A3)](https://git.io/typing-svg)
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&lines=I+love+hackintosh;I+am+a+hackintosher+%3A3" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 	<a href="https://github.com/NLTD2010">
