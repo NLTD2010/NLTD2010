@@ -1,5 +1,6 @@
 
 # <p align="center">DANNYVN2000</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=22&lines=I+love+hackintosh;I+am+a+hackintosher+%3A3)](https://git.io/typing-svg)
 
 <p align="center">
 	<a href="https://github.com/NLTD2010">
@@ -32,13 +33,5 @@
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NLTD2010&show_icons=true&theme=tokyonight" alt="NLTD2010 :: Profile Stats" /></p>
-
-
-
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=NLTD2010&theme=react-dark&custom_title=DannyVn%F0%9F%98%86">
-<p>
 
 #
