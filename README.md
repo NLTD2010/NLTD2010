@@ -25,11 +25,6 @@
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 
-
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLTD2010&langs_count=10&theme=tokyonight&layout=compact" alt="NLTD2010 :: Top Langs" /></p>
-
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NLTD2010&show_icons=true&theme=tokyonight" alt="NLTD2010 :: Profile Stats" /></p>
