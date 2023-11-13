@@ -1,5 +1,5 @@
 
-# <p align="center">DANNYVN2000</p>
+# <p align="center"> Konichiwaaaa! </p>
 
 ```python
 def dannyvn(name, gender, pronouns, timezone, interest, achievements):
