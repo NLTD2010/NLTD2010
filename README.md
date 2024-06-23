@@ -10,7 +10,6 @@ def dannyvn(name, gender, pronouns, timezone, interest, achievements):
     interests = ["programming", "gaming", "music", "anime", "manga","Hackintosh"]
     achievements = ["nothing"]
 ```
-> Chẳng lẽ vẻ đẹp tri thức lại không bằng ngoại hình ư?
 ## <p align="center">Profile stats</p>
 
 <div align="center">
